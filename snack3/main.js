@@ -1,4 +1,4 @@
-'use strict';
+'use strict'
 
 //creo array di oggetti degli animali
 const animal = [
